@@ -22,10 +22,16 @@
 
 ### Использованные библиотеки
 
-pandas
-numpy
-matplotlib
-seaborn
-scipy
+pandas, numpy, matplotlib, seaborn, scipy
 
+### Состав датасета
 
+RangeIndex: 105335 entries, 0 to 105334
+
+- purchaseid         105335 non-null object
+- item_ID            105335 non-null object
+- Quantity           105335 non-null int64
+- purchasedate       105335 non-null object
+- CustomerID         69125 non-null float64
+- ShopID             105335 non-null object
+- loyalty_program    105335 non-null float64
