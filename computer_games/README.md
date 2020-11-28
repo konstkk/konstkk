@@ -26,6 +26,22 @@ numpy
 matplotlib
 
 
+### Состав датасета
 
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 16715 entries, 0 to 16714
+Data columns (total 11 columns):
+Name               16713 non-null object
+Platform           16715 non-null object
+Year_of_Release    16446 non-null float64
+Genre              16713 non-null object
+NA_sales           16715 non-null float64
+EU_sales           16715 non-null float64
+JP_sales           16715 non-null float64
+Other_sales        16715 non-null float64
+Critic_Score       8137 non-null float64
+User_Score         10014 non-null object
+Rating             9949 non-null object
+dtypes: float64(6), object(5)
 
 
