@@ -23,3 +23,19 @@
 pandas
 pymystem3
 
+### Состав датасета
+
+RangeIndex: 21525 entries, 0 to 21524
+
+- children            21525 non-null int64
+- days_employed       19351 non-null float64
+- dob_years           21525 non-null int64
+- education           21525 non-null object
+- education_id        21525 non-null int64
+- family_status       21525 non-null object
+- family_status_id    21525 non-null int64
+- gender              21525 non-null object
+- income_type         21525 non-null object
+- debt                21525 non-null int64
+- total_income        19351 non-null float64
+- purpose             21525 non-null object
