@@ -21,12 +21,7 @@
 
 ### Использованные библиотеки
 
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-sklearn
+pandas, numpy, matplotlib, seaborn, scipy, sklearn
 
 ### Состав датасета
 
