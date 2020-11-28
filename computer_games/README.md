@@ -21,9 +21,7 @@
 
 ### Использованные библиотеки
 
-pandas
-numpy
-matplotlib
+pandas, numpy, matplotlib
 
 
 ### Состав датасета
