@@ -22,10 +22,15 @@
 
 ### Использованные библиотеки
 
-pandas
-numpy
-matplotlib
-seaborn
+pandas, numpy, matplotlib, seaborn
 
+### Состав датасета
 
+RangeIndex: 15366 entries, 0 to 15365
+- id             15366 non-null int64
+- object_name    15366 non-null object
+- chain          15366 non-null object
+- object_type    15366 non-null object
+- address        15366 non-null object
+- number         15366 non-null int64
 
