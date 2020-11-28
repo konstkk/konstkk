@@ -26,3 +26,42 @@
 
 pandas
 
+### Состав датасета
+
+RangeIndex: 500 entries, 0 to 499
+- user_id       500 non-null int64
+- age           500 non-null int64
+- churn_date    38 non-null object
+- city          500 non-null object
+- first_name    500 non-null object
+- last_name     500 non-null object
+- reg_date      500 non-null object
+- tariff        500 non-null object
+
+RangeIndex: 202607 entries, 0 to 202606
+- id           202607 non-null object
+- call_date    202607 non-null object
+- duration     202607 non-null float64
+- user_id      202607 non-null int64
+
+RangeIndex: 123036 entries, 0 to 123035
+- id              123036 non-null object
+- message_date    123036 non-null object
+- user_id         123036 non-null int64
+
+RangeIndex: 149396 entries, 0 to 149395
+- Unnamed: 0      149396 non-null int64
+- id              149396 non-null object
+- mb_used         149396 non-null float64
+- session_date    149396 non-null object
+- user_id         149396 non-null int64
+
+RangeIndex: 2 entries, 0 to 1
+- messages_included        2 non-null int64
+- mb_per_month_included    2 non-null int64
+- minutes_included         2 non-null int64
+- rub_monthly_fee          2 non-null int64
+- rub_per_gb               2 non-null int64
+- rub_per_message          2 non-null int64
+- rub_per_minute           2 non-null int64
+- tariff_name              2 non-null object
