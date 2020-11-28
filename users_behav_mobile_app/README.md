@@ -19,10 +19,12 @@
 
 ### Использованные библиотеки
 
-pandas
-numpy
-matplotlib
-math
-scipy
+pandas, numpy, matplotlib, math, scipy
 
+### Состав датасета
 
+RangeIndex: 244126 entries, 0 to 244125
+- EventName         244126 non-null object
+- DeviceIDHash      244126 non-null int64
+- EventTimestamp    244126 non-null int64
+- ExpId             244126 non-null int64
