@@ -29,7 +29,6 @@ matplotlib
 ### Состав датасета
 
 RangeIndex: 16715 entries, 0 to 16714
-- Data columns (total 11 columns):
 - Name               16713 non-null object
 - Platform           16715 non-null object
 - Year_of_Release    16446 non-null float64
