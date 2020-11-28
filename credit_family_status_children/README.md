@@ -20,8 +20,7 @@
 
 ### Использованные библиотеки
 
-pandas
-pymystem3
+pandas, pymystem3
 
 ### Состав датасета
 
