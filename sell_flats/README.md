@@ -25,3 +25,28 @@
 pandas
 
 
+### Состав датасета
+
+RangeIndex: 23699 entries, 0 to 23698
+- total_images            23699 non-null int64
+- last_price              23699 non-null float64
+- total_area              23699 non-null float64
+- first_day_exposition    23699 non-null object
+- rooms                   23699 non-null int64
+- ceiling_height          14504 non-null float64
+- floors_total            23613 non-null float64
+- living_area             21796 non-null float64
+- floor                   23699 non-null int64
+- is_apartment            2775 non-null object
+- studio                  23699 non-null bool
+- open_plan               23699 non-null bool
+- kitchen_area            21421 non-null float64
+- balcony                 12180 non-null float64
+- locality_name           23650 non-null object
+- airports_nearest        18157 non-null float64
+- cityCenters_nearest     18180 non-null float64
+- parks_around3000        18181 non-null float64
+- parks_nearest           8079 non-null float64
+- ponds_around3000        18181 non-null float64
+- ponds_nearest           9110 non-null float64
+- days_exposition         20518 non-null float64
